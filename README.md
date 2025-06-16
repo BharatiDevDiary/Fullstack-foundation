@@ -34,4 +34,4 @@ If you find any issues, have suggestions, or want to share ideas, feel free to o
 
 ## 🔗 Let's Connect
 
-Follow my learning journey and connect with me on [LinkedIn](https://linkedin.com) _(replace with your actual link)_.
+Follow my learning journey and connect with me on [LinkedIn](www.linkedin.com/in/bharati-sahoo-544453299)
