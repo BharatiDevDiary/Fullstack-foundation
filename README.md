@@ -1,5 +1,13 @@
-# Fullstack-foundation
+# Full Step Foundation
 
-🚀A structured roadmap of my full stack development journey : 👇
-<br>
-📝covering frontend, backend, databases, and version control to build a strong career foundation.
+A repository for complete skill development from basics to advanced.  
+Covers **Frontend**, **Backend**, **Database**, and **Git**.
+
+## Structure
+
+- HTML/
+- CSS/
+- JavaScript/
+- Node.js/
+- MongoDB/
+- Git/
